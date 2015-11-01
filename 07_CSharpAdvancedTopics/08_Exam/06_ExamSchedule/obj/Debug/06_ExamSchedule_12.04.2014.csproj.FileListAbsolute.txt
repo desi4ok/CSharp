@@ -1,0 +1,8 @@
+D:\pgm\08_Exam\08_Exam\06_ExamSchedule\bin\Debug\06_ExamSchedule.exe.config
+D:\pgm\08_Exam\08_Exam\06_ExamSchedule\obj\Debug\06_ExamSchedule.exe
+D:\pgm\08_Exam\08_Exam\06_ExamSchedule\obj\Debug\06_ExamSchedule.pdb
+D:\pgm\08_Exam\08_Exam\06_ExamSchedule\bin\Debug\06_ExamSchedule.exe
+D:\pgm\08_Exam\08_Exam\06_ExamSchedule\bin\Debug\06_ExamSchedule.pdb
+D:\Programming\C# Basics\Projects_Deska\08_Exam\06_ExamSchedule\bin\Debug\06_ExamSchedule.exe.config
+D:\Programming\C# Basics\Projects_Deska\08_Exam\06_ExamSchedule\obj\Debug\06_ExamSchedule.exe
+D:\Programming\C# Basics\Projects_Deska\08_Exam\06_ExamSchedule\obj\Debug\06_ExamSchedule.pdb

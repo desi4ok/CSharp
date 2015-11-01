@@ -1,0 +1,5 @@
+D:\programing\project_01\01_Start\01_Name\bin\Debug\01_Name.exe.config
+D:\programing\project_01\01_Start\01_Name\bin\Debug\01_Name.exe
+D:\programing\project_01\01_Start\01_Name\bin\Debug\01_Name.pdb
+D:\programing\project_01\01_Start\01_Name\obj\Debug\01_Name.exe
+D:\programing\project_01\01_Start\01_Name\obj\Debug\01_Name.pdb

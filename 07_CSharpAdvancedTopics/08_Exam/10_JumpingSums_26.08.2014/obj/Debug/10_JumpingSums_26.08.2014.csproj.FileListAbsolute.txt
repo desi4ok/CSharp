@@ -1,0 +1,12 @@
+D:\pgm\pgm\08_Exam\10_JumpingSums_26.08.2014\bin\Debug\10_JumpingSums_26.08.2014.exe.config
+D:\pgm\pgm\08_Exam\10_JumpingSums_26.08.2014\bin\Debug\10_JumpingSums_26.08.2014.exe
+D:\pgm\pgm\08_Exam\10_JumpingSums_26.08.2014\bin\Debug\10_JumpingSums_26.08.2014.pdb
+D:\pgm\pgm\08_Exam\10_JumpingSums_26.08.2014\obj\Debug\10_JumpingSums_26.08.2014.csprojResolveAssemblyReference.cache
+D:\pgm\pgm\08_Exam\10_JumpingSums_26.08.2014\obj\Debug\10_JumpingSums_26.08.2014.exe
+D:\pgm\pgm\08_Exam\10_JumpingSums_26.08.2014\obj\Debug\10_JumpingSums_26.08.2014.pdb
+D:\Programming\C# Basics\Projects_Deska\08_Exam\10_JumpingSums_26.08.2014\bin\Debug\10_JumpingSums_26.08.2014.exe.config
+D:\Programming\C# Basics\Projects_Deska\08_Exam\10_JumpingSums_26.08.2014\obj\Debug\10_JumpingSums_26.08.2014.exe
+D:\Programming\C# Basics\Projects_Deska\08_Exam\10_JumpingSums_26.08.2014\obj\Debug\10_JumpingSums_26.08.2014.pdb
+D:\Programming\C# Basics\Projects_Deska\08_Exam\10_JumpingSums_26.08.2014\bin\Debug\10_JumpingSums_26.08.2014.exe
+D:\Programming\C# Basics\Projects_Deska\08_Exam\10_JumpingSums_26.08.2014\bin\Debug\10_JumpingSums_26.08.2014.pdb
+D:\Programming\C# Basics\Projects_Deska\08_Exam\10_JumpingSums_26.08.2014\obj\Debug\10_JumpingSums_26.08.2014.csprojResolveAssemblyReference.cache

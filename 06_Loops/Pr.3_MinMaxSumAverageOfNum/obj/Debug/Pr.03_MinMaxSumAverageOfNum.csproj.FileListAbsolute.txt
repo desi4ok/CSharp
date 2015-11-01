@@ -1,0 +1,3 @@
+D:\06_Loops\Pr.3_MinMaxSumAverageOfNum\bin\Debug\Pr.3_MinMaxSumAverageOfNum.exe.config
+D:\06_Loops\Pr.3_MinMaxSumAverageOfNum\obj\Debug\Pr.3_MinMaxSumAverageOfNum.exe
+D:\06_Loops\Pr.3_MinMaxSumAverageOfNum\obj\Debug\Pr.3_MinMaxSumAverageOfNum.pdb

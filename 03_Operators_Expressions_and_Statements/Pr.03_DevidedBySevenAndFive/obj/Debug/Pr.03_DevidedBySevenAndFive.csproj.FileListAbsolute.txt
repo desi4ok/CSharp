@@ -1,0 +1,6 @@
+D:\pgm\Project_03\Project_03\Pr.03_DevidedBySevenAndFive\bin\Debug\DevidedBySevenAndFive.exe.config
+D:\pgm\Project_03\Project_03\Pr.03_DevidedBySevenAndFive\obj\Debug\DevidedBySevenAndFive.exe
+D:\pgm\Project_03\Project_03\Pr.03_DevidedBySevenAndFive\obj\Debug\DevidedBySevenAndFive.pdb
+D:\pgm\Project_03\03_Operators_Expressions_and_Statements\Pr.03_DevidedBySevenAndFive\bin\Debug\DevidedBySevenAndFive.exe.config
+D:\pgm\Project_03\03_Operators_Expressions_and_Statements\Pr.03_DevidedBySevenAndFive\obj\Debug\DevidedBySevenAndFive.exe
+D:\pgm\Project_03\03_Operators_Expressions_and_Statements\Pr.03_DevidedBySevenAndFive\obj\Debug\DevidedBySevenAndFive.pdb

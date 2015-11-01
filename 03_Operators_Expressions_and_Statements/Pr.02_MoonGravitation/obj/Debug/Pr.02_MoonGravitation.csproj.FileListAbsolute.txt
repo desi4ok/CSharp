@@ -1,0 +1,9 @@
+D:\pgm\Project_03\Project_03\MoonGravitation\bin\Debug\MoonGravitation.exe.config
+D:\pgm\Project_03\Project_03\MoonGravitation\obj\Debug\MoonGravitation.exe
+D:\pgm\Project_03\Project_03\MoonGravitation\obj\Debug\MoonGravitation.pdb
+D:\pgm\Project_03\Project_03\Pr.02_MoonGravitation\bin\Debug\MoonGravitation.exe.config
+D:\pgm\Project_03\Project_03\Pr.02_MoonGravitation\obj\Debug\MoonGravitation.exe
+D:\pgm\Project_03\Project_03\Pr.02_MoonGravitation\obj\Debug\MoonGravitation.pdb
+D:\pgm\Project_03\03_Operators_Expressions_and_Statements\Pr.02_MoonGravitation\bin\Debug\MoonGravitation.exe.config
+D:\pgm\Project_03\03_Operators_Expressions_and_Statements\Pr.02_MoonGravitation\obj\Debug\MoonGravitation.exe
+D:\pgm\Project_03\03_Operators_Expressions_and_Statements\Pr.02_MoonGravitation\obj\Debug\MoonGravitation.pdb

@@ -1,0 +1,6 @@
+D:\programing\project_01\01_Start\02_1 101 1001\bin\Debug\02_1 101 1001.exe.config
+D:\programing\project_01\01_Start\02_1 101 1001\bin\Debug\02_1 101 1001.exe
+D:\programing\project_01\01_Start\02_1 101 1001\bin\Debug\02_1 101 1001.pdb
+D:\programing\project_01\01_Start\02_1 101 1001\obj\Debug\02_nov red.csprojResolveAssemblyReference.cache
+D:\programing\project_01\01_Start\02_1 101 1001\obj\Debug\02_1 101 1001.exe
+D:\programing\project_01\01_Start\02_1 101 1001\obj\Debug\02_1 101 1001.pdb

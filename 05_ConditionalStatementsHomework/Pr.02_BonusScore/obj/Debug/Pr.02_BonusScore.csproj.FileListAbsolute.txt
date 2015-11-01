@@ -1,0 +1,8 @@
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.02_BonusScore\bin\Debug\Pr.02_BonusScore.exe.config
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.02_BonusScore\bin\Debug\Pr.02_BonusScore.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.02_BonusScore\bin\Debug\Pr.02_BonusScore.pdb
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.02_BonusScore\obj\Debug\Pr.02_BonusScore.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.02_BonusScore\obj\Debug\Pr.02_BonusScore.pdb
+D:\05_ConditionalStatementsHomework\Pr.02_BonusScore\bin\Debug\Pr.02_BonusScore.exe.config
+D:\05_ConditionalStatementsHomework\Pr.02_BonusScore\obj\Debug\Pr.02_BonusScore.exe
+D:\05_ConditionalStatementsHomework\Pr.02_BonusScore\obj\Debug\Pr.02_BonusScore.pdb

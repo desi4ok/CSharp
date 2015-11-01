@@ -1,0 +1,9 @@
+1. Microsoft Visual Studio - It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. Visual Studio supports different programming languages and allows the code editor and debugger to support nearly any programming language, provided a language-specific service exists. Built-in languages include C,[5] C++ and C++/CLI (via Visual C++), VB.NET (via Visual Basic .NET), C# (via Visual C#).
+
+2. Eclipse -  It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, Ruby.
+
+3. MonoDevelop - It is a free GNOME IDE designed primarily for C# and other .NET languages, but it’s open to most any language and has some variation in supported languages across platforms.
+
+4. SharpDevelop (#Develop) - SharpDevelop is a free IDE for  Microsoft’s .NET platform, with support for all .NET programming languages. 
+
+5. Android Studio - It is an integrated development environment (IDE) for the Android platform. The Studio is designed specifically for Android development. It is available for download on Windows, Mac OS X and Linux.

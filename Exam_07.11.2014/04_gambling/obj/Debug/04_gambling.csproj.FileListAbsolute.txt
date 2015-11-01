@@ -1,0 +1,6 @@
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\04_gambling\bin\Debug\04_gambling.exe.config
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\04_gambling\bin\Debug\04_gambling.exe
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\04_gambling\bin\Debug\04_gambling.pdb
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\04_gambling\obj\Debug\04_gambling.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\04_gambling\obj\Debug\04_gambling.exe
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\04_gambling\obj\Debug\04_gambling.pdb

@@ -1,0 +1,9 @@
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.12_ZeroSubset\bin\Debug\Pr.12_ZeroSubset.exe.config
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.12_ZeroSubset\bin\Debug\Pr.12_ZeroSubset.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.12_ZeroSubset\bin\Debug\Pr.12_ZeroSubset.pdb
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.12_ZeroSubset\obj\Debug\Pr.12_ZeroSubset.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.12_ZeroSubset\obj\Debug\Pr.12_ZeroSubset.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.12_ZeroSubset\obj\Debug\Pr.12_ZeroSubset.pdb
+D:\05_ConditionalStatementsHomework\Pr.12_ZeroSubset\bin\Debug\Pr.12_ZeroSubset.exe.config
+D:\05_ConditionalStatementsHomework\Pr.12_ZeroSubset\obj\Debug\Pr.12_ZeroSubset.exe
+D:\05_ConditionalStatementsHomework\Pr.12_ZeroSubset\obj\Debug\Pr.12_ZeroSubset.pdb

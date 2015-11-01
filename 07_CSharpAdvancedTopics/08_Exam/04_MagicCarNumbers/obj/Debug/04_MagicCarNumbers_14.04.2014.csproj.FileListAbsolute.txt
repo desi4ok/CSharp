@@ -1,0 +1,6 @@
+D:\Programming\C# Basics\Projects_Deska\08_Exam\04_MagicCarNumbers\bin\Debug\04_MagicCarNumbers.exe.config
+D:\Programming\C# Basics\Projects_Deska\08_Exam\04_MagicCarNumbers\bin\Debug\04_MagicCarNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\08_Exam\04_MagicCarNumbers\bin\Debug\04_MagicCarNumbers.pdb
+D:\Programming\C# Basics\Projects_Deska\08_Exam\04_MagicCarNumbers\obj\Debug\04_MagicCarNumbers_14.04.2014.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\08_Exam\04_MagicCarNumbers\obj\Debug\04_MagicCarNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\08_Exam\04_MagicCarNumbers\obj\Debug\04_MagicCarNumbers.pdb

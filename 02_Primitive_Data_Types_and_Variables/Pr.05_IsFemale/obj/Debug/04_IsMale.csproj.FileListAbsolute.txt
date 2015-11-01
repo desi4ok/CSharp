@@ -1,0 +1,9 @@
+D:\programing\projekt_02\04_IsMale\bin\Debug\04_IsMale.exe.config
+D:\programing\projekt_02\04_IsMale\obj\Debug\04_IsMale.csprojResolveAssemblyReference.cache
+D:\programing\projekt_02\04_IsMale\bin\Debug\04_IsMale.exe
+D:\programing\projekt_02\04_IsMale\bin\Debug\04_IsMale.pdb
+D:\programing\projekt_02\04_IsMale\obj\Debug\04_IsMale.exe
+D:\programing\projekt_02\04_IsMale\obj\Debug\04_IsMale.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\04_IsMale\bin\Debug\04_IsMale.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\04_IsMale\obj\Debug\04_IsMale.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\04_IsMale\obj\Debug\04_IsMale.pdb

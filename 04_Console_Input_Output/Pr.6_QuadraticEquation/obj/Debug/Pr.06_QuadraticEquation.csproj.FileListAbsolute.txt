@@ -1,0 +1,6 @@
+D:\programing\04_Console_Input_Output\Pr.6_QuadraticEquation\bin\Debug\Pr.6_QuadraticEquation.exe.config
+D:\programing\04_Console_Input_Output\Pr.6_QuadraticEquation\obj\Debug\Pr.6_QuadraticEquation.exe
+D:\programing\04_Console_Input_Output\Pr.6_QuadraticEquation\obj\Debug\Pr.6_QuadraticEquation.pdb
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.6_QuadraticEquation\bin\Debug\Pr.6_QuadraticEquation.exe.config
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.6_QuadraticEquation\obj\Debug\Pr.6_QuadraticEquation.exe
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.6_QuadraticEquation\obj\Debug\Pr.6_QuadraticEquation.pdb

@@ -1,0 +1,6 @@
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.14_PrintAsciiTable\bin\Debug\Pr.14_PrintAsciiTable.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.14_PrintAsciiTable\bin\Debug\Pr.14_PrintAsciiTable.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.14_PrintAsciiTable\bin\Debug\Pr.14_PrintAsciiTable.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.14_PrintAsciiTable\obj\Debug\Pr.14_PrintAsciiTable.csprojResolveAssemblyReference.cache
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.14_PrintAsciiTable\obj\Debug\Pr.14_PrintAsciiTable.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.14_PrintAsciiTable\obj\Debug\Pr.14_PrintAsciiTable.pdb

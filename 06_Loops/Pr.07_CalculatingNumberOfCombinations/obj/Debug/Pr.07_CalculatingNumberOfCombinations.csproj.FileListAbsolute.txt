@@ -1,0 +1,9 @@
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.07_CalculatingNumberOfCombinations\bin\Debug\Pr.07_CalculatingNumberOfCombinations.exe.config
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.07_CalculatingNumberOfCombinations\obj\Debug\Pr.07_CalculatingNumberOfCombinations.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.07_CalculatingNumberOfCombinations\bin\Debug\Pr.07_CalculatingNumberOfCombinations.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.07_CalculatingNumberOfCombinations\bin\Debug\Pr.07_CalculatingNumberOfCombinations.pdb
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.07_CalculatingNumberOfCombinations\obj\Debug\Pr.07_CalculatingNumberOfCombinations.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.07_CalculatingNumberOfCombinations\obj\Debug\Pr.07_CalculatingNumberOfCombinations.pdb
+D:\06_Loops\Pr.07_CalculatingNumberOfCombinations\bin\Debug\Pr.07_CalculatingNumberOfCombinations.exe.config
+D:\06_Loops\Pr.07_CalculatingNumberOfCombinations\obj\Debug\Pr.07_CalculatingNumberOfCombinations.exe
+D:\06_Loops\Pr.07_CalculatingNumberOfCombinations\obj\Debug\Pr.07_CalculatingNumberOfCombinations.pdb

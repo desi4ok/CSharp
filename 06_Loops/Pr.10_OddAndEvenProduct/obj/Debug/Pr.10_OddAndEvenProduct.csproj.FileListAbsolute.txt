@@ -1,0 +1,9 @@
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.10_OddAndEvenProduct\bin\Debug\Pr.10_OddAndEvenProduct.exe.config
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.10_OddAndEvenProduct\obj\Debug\Pr.10_OddAndEvenProduct.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.10_OddAndEvenProduct\bin\Debug\Pr.10_OddAndEvenProduct.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.10_OddAndEvenProduct\bin\Debug\Pr.10_OddAndEvenProduct.pdb
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.10_OddAndEvenProduct\obj\Debug\Pr.10_OddAndEvenProduct.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.10_OddAndEvenProduct\obj\Debug\Pr.10_OddAndEvenProduct.pdb
+D:\06_Loops\Pr.10_OddAndEvenProduct\bin\Debug\Pr.10_OddAndEvenProduct.exe.config
+D:\06_Loops\Pr.10_OddAndEvenProduct\obj\Debug\Pr.10_OddAndEvenProduct.exe
+D:\06_Loops\Pr.10_OddAndEvenProduct\obj\Debug\Pr.10_OddAndEvenProduct.pdb

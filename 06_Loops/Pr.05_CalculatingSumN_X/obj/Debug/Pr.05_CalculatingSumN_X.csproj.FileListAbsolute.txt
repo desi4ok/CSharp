@@ -1,0 +1,12 @@
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.05_CalculatingSumN_X\bin\Debug\Pr.05_CalculatingSumN_X.exe.config
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.05_CalculatingSumN_X\bin\Debug\Pr.05_CalculatingSumN_X.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.05_CalculatingSumN_X\bin\Debug\Pr.05_CalculatingSumN_X.pdb
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.05_CalculatingSumN_X\obj\Debug\Pr.05_CalculatingSumN_X.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.05_CalculatingSumN_X\obj\Debug\Pr.05_CalculatingSumN_X.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.05_CalculatingSumN_X\obj\Debug\Pr.05_CalculatingSumN_X.pdb
+D:\06_Loops\Pr.05_CalculatingSumN_X\bin\Debug\Pr.05_CalculatingSumN_X.exe.config
+D:\06_Loops\Pr.05_CalculatingSumN_X\obj\Debug\Pr.05_CalculatingSumN_X.exe
+D:\06_Loops\Pr.05_CalculatingSumN_X\obj\Debug\Pr.05_CalculatingSumN_X.pdb
+D:\06_Loops\Pr.05_CalculatingSumN_X\bin\Debug\Pr.05_CalculatingSumN_X.exe
+D:\06_Loops\Pr.05_CalculatingSumN_X\bin\Debug\Pr.05_CalculatingSumN_X.pdb
+D:\06_Loops\Pr.05_CalculatingSumN_X\obj\Debug\Pr.05_CalculatingSumN_X.csprojResolveAssemblyReference.cache

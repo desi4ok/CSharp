@@ -1,0 +1,9 @@
+D:\programing\02_Primitive_Data_Types_and_Variables\03_HexadecimalChar\bin\Debug\03_HexadecimalChar.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\03_HexadecimalChar\obj\Debug\03_HexadecimalChar.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\03_HexadecimalChar\obj\Debug\03_HexadecimalChar.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.04_UnicodeCharacter\bin\Debug\03_HexadecimalChar.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.04_UnicodeCharacter\obj\Debug\03_HexadecimalChar.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.04_UnicodeCharacter\obj\Debug\03_HexadecimalChar.pdb
+D:\Programming\C# Basics\Projects_Deska\02_Primitive_Data_Types_and_Variables\Pr.04_UnicodeCharacter\bin\Debug\03_HexadecimalChar.exe.config
+D:\Programming\C# Basics\Projects_Deska\02_Primitive_Data_Types_and_Variables\Pr.04_UnicodeCharacter\obj\Debug\03_HexadecimalChar.exe
+D:\Programming\C# Basics\Projects_Deska\02_Primitive_Data_Types_and_Variables\Pr.04_UnicodeCharacter\obj\Debug\03_HexadecimalChar.pdb

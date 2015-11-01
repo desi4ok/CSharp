@@ -1,0 +1,7 @@
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.9_PlayWithIntDoubleAndString\bin\Debug\Pr.9_PlayWithIntDoubleAndString.exe.config
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.9_PlayWithIntDoubleAndString\obj\Debug\Pr.9_PlayWithIntDoubleAndString.exe
+D:\05_ConditionalStatementsHomework\Pr.9_PlayWithIntDoubleAndString\bin\Debug\Pr.9_PlayWithIntDoubleAndString.exe.config
+D:\05_ConditionalStatementsHomework\Pr.9_PlayWithIntDoubleAndString\obj\Debug\Pr.9_PlayWithIntDoubleAndString.exe
+D:\05_ConditionalStatementsHomework\Pr.9_PlayWithIntDoubleAndString\bin\Debug\Pr.9_PlayWithIntDoubleAndString.exe
+D:\05_ConditionalStatementsHomework\Pr.9_PlayWithIntDoubleAndString\bin\Debug\Pr.9_PlayWithIntDoubleAndString.pdb
+D:\05_ConditionalStatementsHomework\Pr.9_PlayWithIntDoubleAndString\obj\Debug\Pr.9_PlayWithIntDoubleAndString.pdb

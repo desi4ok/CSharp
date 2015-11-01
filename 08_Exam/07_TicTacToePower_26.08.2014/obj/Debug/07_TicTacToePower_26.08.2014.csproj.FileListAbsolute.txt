@@ -1,0 +1,9 @@
+D:\pgm\08_Exam\08_Exam\07_TicTacToePower_26.08.2014\bin\Debug\07_TicTacToePower_26.08.2014.exe.config
+D:\pgm\08_Exam\08_Exam\07_TicTacToePower_26.08.2014\bin\Debug\07_TicTacToePower_26.08.2014.exe
+D:\pgm\08_Exam\08_Exam\07_TicTacToePower_26.08.2014\bin\Debug\07_TicTacToePower_26.08.2014.pdb
+D:\pgm\08_Exam\08_Exam\07_TicTacToePower_26.08.2014\obj\Debug\07_TicTacToePower_26.08.2014.csprojResolveAssemblyReference.cache
+D:\pgm\08_Exam\08_Exam\07_TicTacToePower_26.08.2014\obj\Debug\07_TicTacToePower_26.08.2014.exe
+D:\pgm\08_Exam\08_Exam\07_TicTacToePower_26.08.2014\obj\Debug\07_TicTacToePower_26.08.2014.pdb
+D:\Programming\C# Basics\Projects_Deska\08_Exam\07_TicTacToePower_26.08.2014\bin\Debug\07_TicTacToePower_26.08.2014.exe.config
+D:\Programming\C# Basics\Projects_Deska\08_Exam\07_TicTacToePower_26.08.2014\obj\Debug\07_TicTacToePower_26.08.2014.exe
+D:\Programming\C# Basics\Projects_Deska\08_Exam\07_TicTacToePower_26.08.2014\obj\Debug\07_TicTacToePower_26.08.2014.pdb

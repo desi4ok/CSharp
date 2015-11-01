@@ -1,0 +1,12 @@
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.01_SumOfThreeNumbers\bin\Debug\Pr.01_SumOfThreeNumbers.exe.config
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.01_SumOfThreeNumbers\bin\Debug\Pr.01_SumOfThreeNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.01_SumOfThreeNumbers\bin\Debug\Pr.01_SumOfThreeNumbers.pdb
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.01_SumOfThreeNumbers\obj\Debug\Pr.01_SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.01_SumOfThreeNumbers\obj\Debug\Pr.01_SumOfThreeNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.01_SumOfThreeNumbers\obj\Debug\Pr.01_SumOfThreeNumbers.pdb
+D:\programing\04_Console_Input_Output\Pr.01_SumOfThreeNumbers\bin\Debug\Pr.01_SumOfThreeNumbers.exe.config
+D:\programing\04_Console_Input_Output\Pr.01_SumOfThreeNumbers\obj\Debug\Pr.01_SumOfThreeNumbers.exe
+D:\programing\04_Console_Input_Output\Pr.01_SumOfThreeNumbers\obj\Debug\Pr.01_SumOfThreeNumbers.pdb
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.01_SumOfThreeNumbers\bin\Debug\Pr.01_SumOfThreeNumbers.exe.config
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.01_SumOfThreeNumbers\obj\Debug\Pr.01_SumOfThreeNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.01_SumOfThreeNumbers\obj\Debug\Pr.01_SumOfThreeNumbers.pdb

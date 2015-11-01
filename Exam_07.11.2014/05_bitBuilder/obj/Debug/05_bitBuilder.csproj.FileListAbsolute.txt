@@ -1,0 +1,5 @@
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\05_bitBuilder\bin\Debug\05_bitBuilder.exe.config
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\05_bitBuilder\bin\Debug\05_bitBuilder.exe
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\05_bitBuilder\bin\Debug\05_bitBuilder.pdb
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\05_bitBuilder\obj\Debug\05_bitBuilder.exe
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\05_bitBuilder\obj\Debug\05_bitBuilder.pdb

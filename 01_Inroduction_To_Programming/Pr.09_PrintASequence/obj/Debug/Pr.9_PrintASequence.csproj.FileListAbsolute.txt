@@ -1,0 +1,5 @@
+D:\programing\project_01\01_Start\Pr.9_PrintASequence\bin\Debug\Pr.9_PrintASequence.exe.config
+D:\programing\project_01\01_Start\Pr.9_PrintASequence\bin\Debug\Pr.9_PrintASequence.exe
+D:\programing\project_01\01_Start\Pr.9_PrintASequence\bin\Debug\Pr.9_PrintASequence.pdb
+D:\programing\project_01\01_Start\Pr.9_PrintASequence\obj\Debug\Pr.9_PrintASequence.exe
+D:\programing\project_01\01_Start\Pr.9_PrintASequence\obj\Debug\Pr.9_PrintASequence.pdb

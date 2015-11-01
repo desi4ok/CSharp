@@ -1,0 +1,3 @@
+D:\pgm\Project_03\Project_03\Pr.09_AreaOfTrapezoid\bin\Debug\Pr.9_AreaOfTrapezoid.exe.config
+D:\pgm\Project_03\Project_03\Pr.09_AreaOfTrapezoid\obj\Debug\Pr.9_AreaOfTrapezoid.exe
+D:\pgm\Project_03\Project_03\Pr.09_AreaOfTrapezoid\obj\Debug\Pr.9_AreaOfTrapezoid.pdb

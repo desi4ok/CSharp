@@ -1,0 +1,8 @@
+D:\programing\project_01\01_Start\03_DateTime\bin\Debug\03_DateTime.exe.config
+D:\programing\project_01\01_Start\03_DateTime\bin\Debug\03_DateTime.exe
+D:\programing\project_01\01_Start\03_DateTime\bin\Debug\03_DateTime.pdb
+D:\programing\project_01\01_Start\03_DateTime\obj\Debug\03_DateTime.exe
+D:\programing\project_01\01_Start\03_DateTime\obj\Debug\03_DateTime.pdb
+D:\programing\project_01\01_Start\Pr.14_DateTime\bin\Debug\03_DateTime.exe.config
+D:\programing\project_01\01_Start\Pr.14_DateTime\obj\Debug\03_DateTime.exe
+D:\programing\project_01\01_Start\Pr.14_DateTime\obj\Debug\03_DateTime.pdb

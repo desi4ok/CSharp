@@ -1,0 +1,9 @@
+D:\pgm\07_CSharpAdvancedTopics\Pr.02_PrimeChecker\bin\Debug\Pr.02_PrimeChecker.exe.config
+D:\pgm\07_CSharpAdvancedTopics\Pr.02_PrimeChecker\obj\Debug\Pr.02_PrimeChecker.csprojResolveAssemblyReference.cache
+D:\pgm\07_CSharpAdvancedTopics\Pr.02_PrimeChecker\bin\Debug\Pr.02_PrimeChecker.exe
+D:\pgm\07_CSharpAdvancedTopics\Pr.02_PrimeChecker\bin\Debug\Pr.02_PrimeChecker.pdb
+D:\pgm\07_CSharpAdvancedTopics\Pr.02_PrimeChecker\obj\Debug\Pr.02_PrimeChecker.exe
+D:\pgm\07_CSharpAdvancedTopics\Pr.02_PrimeChecker\obj\Debug\Pr.02_PrimeChecker.pdb
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.02_PrimeChecker\bin\Debug\Pr.02_PrimeChecker.exe.config
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.02_PrimeChecker\obj\Debug\Pr.02_PrimeChecker.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.02_PrimeChecker\obj\Debug\Pr.02_PrimeChecker.pdb

@@ -1,0 +1,11 @@
+D:\programing\project_01\01_Start\06_Age\bin\Debug\06_Age.exe.config
+D:\programing\project_01\01_Start\06_Age\bin\Debug\06_Age.exe
+D:\programing\project_01\01_Start\06_Age\bin\Debug\06_Age.pdb
+D:\programing\project_01\01_Start\06_Age\obj\Debug\06_Age.exe
+D:\programing\project_01\01_Start\06_Age\obj\Debug\06_Age.pdb
+D:\programing\project_01\01_Start\Pr.15_AgeAfter10Years\bin\Debug\06_Age.exe.config
+D:\programing\project_01\01_Start\Pr.15_AgeAfter10Years\obj\Debug\06_Age.exe
+D:\programing\project_01\01_Start\Pr.15_AgeAfter10Years\obj\Debug\06_Age.pdb
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.15_AgeAfter10Years\bin\Debug\06_Age.exe.config
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.15_AgeAfter10Years\obj\Debug\06_Age.exe
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.15_AgeAfter10Years\obj\Debug\06_Age.pdb

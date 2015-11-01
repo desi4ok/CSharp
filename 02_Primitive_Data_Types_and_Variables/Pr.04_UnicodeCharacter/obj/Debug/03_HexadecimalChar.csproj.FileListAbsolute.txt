@@ -1,0 +1,12 @@
+D:\programing\projekt_02\03_HexadecimalChar\bin\Debug\03_HexadecimalChar.exe.config
+D:\programing\projekt_02\03_HexadecimalChar\obj\Debug\03_HexadecimalChar.csprojResolveAssemblyReference.cache
+D:\programing\projekt_02\03_HexadecimalChar\bin\Debug\03_HexadecimalChar.exe
+D:\programing\projekt_02\03_HexadecimalChar\bin\Debug\03_HexadecimalChar.pdb
+D:\programing\projekt_02\03_HexadecimalChar\obj\Debug\03_HexadecimalChar.exe
+D:\programing\projekt_02\03_HexadecimalChar\obj\Debug\03_HexadecimalChar.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\03_HexadecimalChar\bin\Debug\03_HexadecimalChar.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\03_HexadecimalChar\obj\Debug\03_HexadecimalChar.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\03_HexadecimalChar\obj\Debug\03_HexadecimalChar.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\03_HexadecimalChar\bin\Debug\03_HexadecimalChar.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\03_HexadecimalChar\bin\Debug\03_HexadecimalChar.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\03_HexadecimalChar\obj\Debug\03_HexadecimalChar.csprojResolveAssemblyReference.cache

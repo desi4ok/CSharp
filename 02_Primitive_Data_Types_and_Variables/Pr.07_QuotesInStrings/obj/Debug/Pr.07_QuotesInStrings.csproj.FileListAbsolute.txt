@@ -1,0 +1,9 @@
+D:\programing\02_Primitive_Data_Types_and_Variables\06_QuotedPrefix\bin\Debug\06_QuotedPrefix.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\06_QuotedPrefix\obj\Debug\06_QuotedPrefix.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\06_QuotedPrefix\obj\Debug\06_QuotedPrefix.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.07_QuotesInStrings\bin\Debug\06_QuotedPrefix.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.07_QuotesInStrings\obj\Debug\06_QuotedPrefix.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.07_QuotesInStrings\obj\Debug\06_QuotedPrefix.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.07_QuotesInStrings\bin\Debug\06_QuotedPrefix.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.07_QuotesInStrings\bin\Debug\06_QuotedPrefix.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.07_QuotesInStrings\obj\Debug\Pr.07_QuotesInStrings.csprojResolveAssemblyReference.cache

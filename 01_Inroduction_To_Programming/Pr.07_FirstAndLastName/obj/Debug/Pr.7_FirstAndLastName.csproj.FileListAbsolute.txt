@@ -1,0 +1,6 @@
+D:\programing\project_01\01_Start\Pr.7_FirstAndLastName\bin\Debug\Pr.7_FirstAndLastName.exe.config
+D:\programing\project_01\01_Start\Pr.7_FirstAndLastName\bin\Debug\Pr.7_FirstAndLastName.exe
+D:\programing\project_01\01_Start\Pr.7_FirstAndLastName\bin\Debug\Pr.7_FirstAndLastName.pdb
+D:\programing\project_01\01_Start\Pr.7_FirstAndLastName\obj\Debug\Pr.7_FirstAndLastName.csprojResolveAssemblyReference.cache
+D:\programing\project_01\01_Start\Pr.7_FirstAndLastName\obj\Debug\Pr.7_FirstAndLastName.exe
+D:\programing\project_01\01_Start\Pr.7_FirstAndLastName\obj\Debug\Pr.7_FirstAndLastName.pdb

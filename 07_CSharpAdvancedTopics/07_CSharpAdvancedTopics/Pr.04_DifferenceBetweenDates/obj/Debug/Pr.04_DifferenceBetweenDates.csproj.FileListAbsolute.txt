@@ -1,0 +1,12 @@
+D:\pgm\07_CSharpAdvancedTopics\Pr.04_DifferenceBetweenDates\bin\Debug\Pr.04_DifferenceBetweenDates.exe.config
+D:\pgm\07_CSharpAdvancedTopics\Pr.04_DifferenceBetweenDates\bin\Debug\Pr.04_DifferenceBetweenDates.exe
+D:\pgm\07_CSharpAdvancedTopics\Pr.04_DifferenceBetweenDates\bin\Debug\Pr.04_DifferenceBetweenDates.pdb
+D:\pgm\07_CSharpAdvancedTopics\Pr.04_DifferenceBetweenDates\obj\Debug\Pr.04_DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+D:\pgm\07_CSharpAdvancedTopics\Pr.04_DifferenceBetweenDates\obj\Debug\Pr.04_DifferenceBetweenDates.exe
+D:\pgm\07_CSharpAdvancedTopics\Pr.04_DifferenceBetweenDates\obj\Debug\Pr.04_DifferenceBetweenDates.pdb
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.04_DifferenceBetweenDates\bin\Debug\Pr.04_DifferenceBetweenDates.exe.config
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.04_DifferenceBetweenDates\obj\Debug\Pr.04_DifferenceBetweenDates.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.04_DifferenceBetweenDates\obj\Debug\Pr.04_DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.04_DifferenceBetweenDates\bin\Debug\Pr.04_DifferenceBetweenDates.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.04_DifferenceBetweenDates\bin\Debug\Pr.04_DifferenceBetweenDates.pdb
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.04_DifferenceBetweenDates\obj\Debug\Pr.04_DifferenceBetweenDates.pdb

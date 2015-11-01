@@ -1,0 +1,11 @@
+D:\pgm\Project_03\Project_03\Pr.6_FourDigitNumber\bin\Debug\Pr.6_FourDigitNumber.exe.config
+D:\pgm\Project_03\Project_03\Pr.6_FourDigitNumber\obj\Debug\Pr.6_FourDigitNumber.exe
+D:\pgm\Project_03\Project_03\Pr.6_FourDigitNumber\obj\Debug\Pr.6_FourDigitNumber.pdb
+D:\pgm\Project_03\Project_03\Pr.6_FourDigitNumber\bin\Debug\Pr.6_FourDigitNumber.exe
+D:\pgm\Project_03\Project_03\Pr.6_FourDigitNumber\bin\Debug\Pr.6_FourDigitNumber.pdb
+D:\pgm\Project_03\Project_03\Pr.06_FourDigitNumber\bin\Debug\Pr.6_FourDigitNumber.exe.config
+D:\pgm\Project_03\Project_03\Pr.06_FourDigitNumber\obj\Debug\Pr.6_FourDigitNumber.exe
+D:\pgm\Project_03\Project_03\Pr.06_FourDigitNumber\obj\Debug\Pr.6_FourDigitNumber.pdb
+D:\Programming\C# Basics\Projects_Deska\Project_3333\Project_03\Project_03\Pr.06_FourDigitNumber\bin\Debug\Pr.6_FourDigitNumber.exe.config
+D:\Programming\C# Basics\Projects_Deska\Project_3333\Project_03\Project_03\Pr.06_FourDigitNumber\obj\Debug\Pr.6_FourDigitNumber.exe
+D:\Programming\C# Basics\Projects_Deska\Project_3333\Project_03\Project_03\Pr.06_FourDigitNumber\obj\Debug\Pr.6_FourDigitNumber.pdb

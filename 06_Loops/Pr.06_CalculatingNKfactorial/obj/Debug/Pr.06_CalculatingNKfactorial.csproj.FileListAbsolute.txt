@@ -1,0 +1,9 @@
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.06_CalculatingNKfactorial\bin\Debug\Pr.06_CalculatingNKfactorial.exe.config
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.06_CalculatingNKfactorial\obj\Debug\Pr.06_CalculatingNKfactorial.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.06_CalculatingNKfactorial\bin\Debug\Pr.06_CalculatingNKfactorial.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.06_CalculatingNKfactorial\bin\Debug\Pr.06_CalculatingNKfactorial.pdb
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.06_CalculatingNKfactorial\obj\Debug\Pr.06_CalculatingNKfactorial.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.06_CalculatingNKfactorial\obj\Debug\Pr.06_CalculatingNKfactorial.pdb
+D:\06_Loops\Pr.06_CalculatingNKfactorial\bin\Debug\Pr.06_CalculatingNKfactorial.exe.config
+D:\06_Loops\Pr.06_CalculatingNKfactorial\obj\Debug\Pr.06_CalculatingNKfactorial.exe
+D:\06_Loops\Pr.06_CalculatingNKfactorial\obj\Debug\Pr.06_CalculatingNKfactorial.pdb

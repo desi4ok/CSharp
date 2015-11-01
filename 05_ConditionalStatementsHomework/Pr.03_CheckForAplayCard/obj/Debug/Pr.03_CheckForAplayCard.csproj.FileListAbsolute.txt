@@ -1,0 +1,1 @@
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.03_CheckForAplayCard\bin\Debug\Pr.03_CheckForAplayCard.exe.config

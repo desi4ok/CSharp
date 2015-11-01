@@ -1,0 +1,12 @@
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.08_DigitAsWord\bin\Debug\Pr.08_DigitAsWord.exe.config
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.08_DigitAsWord\bin\Debug\Pr.08_DigitAsWord.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.08_DigitAsWord\bin\Debug\Pr.08_DigitAsWord.pdb
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.08_DigitAsWord\obj\Debug\Pr.08_DigitAsWord.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.08_DigitAsWord\obj\Debug\Pr.08_DigitAsWord.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.08_DigitAsWord\obj\Debug\Pr.08_DigitAsWord.pdb
+D:\05_ConditionalStatementsHomework\Pr.08_DigitAsWord\bin\Debug\Pr.08_DigitAsWord.exe.config
+D:\05_ConditionalStatementsHomework\Pr.08_DigitAsWord\obj\Debug\Pr.08_DigitAsWord.exe
+D:\05_ConditionalStatementsHomework\Pr.08_DigitAsWord\obj\Debug\Pr.08_DigitAsWord.pdb
+D:\05_ConditionalStatementsHomework\Pr.08_DigitAsWord\bin\Debug\Pr.08_DigitAsWord.exe
+D:\05_ConditionalStatementsHomework\Pr.08_DigitAsWord\bin\Debug\Pr.08_DigitAsWord.pdb
+D:\05_ConditionalStatementsHomework\Pr.08_DigitAsWord\obj\Debug\Pr.08_DigitAsWord.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\programing\project_01\01_Start\06_Age\bin\Debug\06_Age.exe.config
+D:\programing\project_01\01_Start\06_Age\bin\Debug\06_Age.exe
+D:\programing\project_01\01_Start\06_Age\bin\Debug\06_Age.pdb
+D:\programing\project_01\01_Start\06_Age\obj\Debug\06_Age.exe
+D:\programing\project_01\01_Start\06_Age\obj\Debug\06_Age.pdb
+D:\programing\project_01\01_Start\06_Age\obj\Debug\06_Age.csprojResolveAssemblyReference.cache

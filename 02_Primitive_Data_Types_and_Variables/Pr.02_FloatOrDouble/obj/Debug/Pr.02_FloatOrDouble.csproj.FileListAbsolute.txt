@@ -1,0 +1,9 @@
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.2_FloatOrDouble\obj\Debug\Pr.02_FloatOrDouble.csprojResolveAssemblyReference.cache
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.2_FloatOrDouble\bin\Debug\Pr.2_FloatOrDouble.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.2_FloatOrDouble\bin\Debug\Pr.2_FloatOrDouble.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.2_FloatOrDouble\bin\Debug\Pr.2_FloatOrDouble.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.2_FloatOrDouble\obj\Debug\Pr.2_FloatOrDouble.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.2_FloatOrDouble\obj\Debug\Pr.2_FloatOrDouble.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.02_FloatOrDouble\bin\Debug\Pr.2_FloatOrDouble.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.02_FloatOrDouble\obj\Debug\Pr.2_FloatOrDouble.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.02_FloatOrDouble\obj\Debug\Pr.2_FloatOrDouble.pdb

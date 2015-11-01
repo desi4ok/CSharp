@@ -1,0 +1,3 @@
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.06_HelloWorld\bin\Debug\05_HelloWorld.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.06_HelloWorld\obj\Debug\05_HelloWorld.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.06_HelloWorld\obj\Debug\05_HelloWorld.pdb

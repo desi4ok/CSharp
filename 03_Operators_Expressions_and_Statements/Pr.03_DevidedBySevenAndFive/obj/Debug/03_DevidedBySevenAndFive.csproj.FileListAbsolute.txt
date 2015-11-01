@@ -1,0 +1,8 @@
+D:\Programming\C# Basics\Projects_Deska\Project_03\DevidedBySevenAndFive\bin\Debug\DevidedBySevenAndFive.exe.config
+D:\Programming\C# Basics\Projects_Deska\Project_03\DevidedBySevenAndFive\bin\Debug\DevidedBySevenAndFive.exe
+D:\Programming\C# Basics\Projects_Deska\Project_03\DevidedBySevenAndFive\bin\Debug\DevidedBySevenAndFive.pdb
+D:\Programming\C# Basics\Projects_Deska\Project_03\DevidedBySevenAndFive\obj\Debug\DevidedBySevenAndFive.exe
+D:\Programming\C# Basics\Projects_Deska\Project_03\DevidedBySevenAndFive\obj\Debug\DevidedBySevenAndFive.pdb
+D:\pgm\Project_03\Project_03\DevidedBySevenAndFive\bin\Debug\DevidedBySevenAndFive.exe.config
+D:\pgm\Project_03\Project_03\DevidedBySevenAndFive\obj\Debug\DevidedBySevenAndFive.exe
+D:\pgm\Project_03\Project_03\DevidedBySevenAndFive\obj\Debug\DevidedBySevenAndFive.pdb

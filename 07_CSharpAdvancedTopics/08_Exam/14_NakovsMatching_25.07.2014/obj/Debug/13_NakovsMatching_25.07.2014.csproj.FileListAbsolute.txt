@@ -1,0 +1,2 @@
+D:\08_Exam\13_NakovsMatching_25.07.2014\bin\Debug\13_NakovsMatching_25.07.2014.exe.config
+D:\Programming\C# Basics\Projects_Deska\08_Exam\14_NakovsMatching_25.07.2014\bin\Debug\13_NakovsMatching_25.07.2014.exe.config

@@ -1,0 +1,15 @@
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\bin\Debug\Pr.03_PrimesInGivenRange.exe.config
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\obj\Debug\Pr.03_PrimesInGivenRange.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\bin\Debug\Pr.03_PrimesInGivenRange.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\bin\Debug\Pr.03_PrimesInGivenRange.pdb
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\obj\Debug\Pr.03_PrimesInGivenRange.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\obj\Debug\Pr.03_PrimesInGivenRange.pdb
+D:\pgm\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\bin\Debug\Pr.03_PrimesInGivenRange.exe.config
+D:\pgm\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\obj\Debug\Pr.03_PrimesInGivenRange.exe
+D:\pgm\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\obj\Debug\Pr.03_PrimesInGivenRange.pdb
+D:\pgm\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\obj\Debug\Pr.03_PrimesInGivenRange.csprojResolveAssemblyReference.cache
+D:\pgm\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\bin\Debug\Pr.03_PrimesInGivenRange.exe
+D:\pgm\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\bin\Debug\Pr.03_PrimesInGivenRange.pdb
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\bin\Debug\Pr.03_PrimesInGivenRange.exe.config
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\obj\Debug\Pr.03_PrimesInGivenRange.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.03_PrimesInGivenRange\obj\Debug\Pr.03_PrimesInGivenRange.pdb

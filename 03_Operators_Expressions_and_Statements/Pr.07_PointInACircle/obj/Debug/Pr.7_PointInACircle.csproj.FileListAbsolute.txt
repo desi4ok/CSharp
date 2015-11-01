@@ -1,0 +1,12 @@
+D:\programing\OperatorExpressionsAndStatements\Pr.7_PointInACircle\bin\Debug\Pr.7_PointInACircle.exe.config
+D:\programing\OperatorExpressionsAndStatements\Pr.7_PointInACircle\bin\Debug\Pr.7_PointInACircle.exe
+D:\programing\OperatorExpressionsAndStatements\Pr.7_PointInACircle\bin\Debug\Pr.7_PointInACircle.pdb
+D:\programing\OperatorExpressionsAndStatements\Pr.7_PointInACircle\obj\Debug\Pr.7_PointInACircle.csprojResolveAssemblyReference.cache
+D:\programing\OperatorExpressionsAndStatements\Pr.7_PointInACircle\obj\Debug\Pr.7_PointInACircle.exe
+D:\programing\OperatorExpressionsAndStatements\Pr.7_PointInACircle\obj\Debug\Pr.7_PointInACircle.pdb
+D:\pgm\Project_03\Project_03\Pr.07_PointInACircle\bin\Debug\Pr.7_PointInACircle.exe.config
+D:\pgm\Project_03\Project_03\Pr.07_PointInACircle\obj\Debug\Pr.7_PointInACircle.exe
+D:\pgm\Project_03\Project_03\Pr.07_PointInACircle\obj\Debug\Pr.7_PointInACircle.pdb
+D:\pgm\Project_03\Project_03\Pr.07_PointInACircle\bin\Debug\Pr.7_PointInACircle.exe
+D:\pgm\Project_03\Project_03\Pr.07_PointInACircle\bin\Debug\Pr.7_PointInACircle.pdb
+D:\pgm\Project_03\Project_03\Pr.07_PointInACircle\obj\Debug\Pr.7_PointInACircle.csprojResolveAssemblyReference.cache

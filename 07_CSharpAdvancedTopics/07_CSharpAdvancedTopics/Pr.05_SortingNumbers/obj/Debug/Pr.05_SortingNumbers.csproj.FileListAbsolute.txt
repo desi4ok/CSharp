@@ -1,0 +1,6 @@
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.05_SortingNumbers\bin\Debug\Pr.05_SortingNumbers.exe.config
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.05_SortingNumbers\obj\Debug\Pr.05_SortingNumbers.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.05_SortingNumbers\bin\Debug\Pr.05_SortingNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.05_SortingNumbers\bin\Debug\Pr.05_SortingNumbers.pdb
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.05_SortingNumbers\obj\Debug\Pr.05_SortingNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.05_SortingNumbers\obj\Debug\Pr.05_SortingNumbers.pdb

@@ -1,0 +1,12 @@
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.04_MultiplicationSign\bin\Debug\Pr.04_MultiplicationSign.exe.config
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.04_MultiplicationSign\obj\Debug\Pr.04_MultiplicationSign.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.04_MultiplicationSign\bin\Debug\Pr.04_MultiplicationSign.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.04_MultiplicationSign\bin\Debug\Pr.04_MultiplicationSign.pdb
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.04_MultiplicationSign\obj\Debug\Pr.04_MultiplicationSign.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.04_MultiplicationSign\obj\Debug\Pr.04_MultiplicationSign.pdb
+D:\05_ConditionalStatementsHomework\Pr.04_MultiplicationSign\bin\Debug\Pr.04_MultiplicationSign.exe.config
+D:\05_ConditionalStatementsHomework\Pr.04_MultiplicationSign\obj\Debug\Pr.04_MultiplicationSign.exe
+D:\05_ConditionalStatementsHomework\Pr.04_MultiplicationSign\obj\Debug\Pr.04_MultiplicationSign.pdb
+D:\05_ConditionalStatementsHomework\Pr.04_MultiplicationSign\bin\Debug\Pr.04_MultiplicationSign.exe
+D:\05_ConditionalStatementsHomework\Pr.04_MultiplicationSign\bin\Debug\Pr.04_MultiplicationSign.pdb
+D:\05_ConditionalStatementsHomework\Pr.04_MultiplicationSign\obj\Debug\Pr.04_MultiplicationSign.csprojResolveAssemblyReference.cache

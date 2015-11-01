@@ -1,0 +1,12 @@
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.11_NumberAsWords\bin\Debug\Pr.11_NumberAsWords.exe.config
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.11_NumberAsWords\bin\Debug\Pr.11_NumberAsWords.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.11_NumberAsWords\bin\Debug\Pr.11_NumberAsWords.pdb
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.11_NumberAsWords\obj\Debug\Pr.11_NumberAsWords.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.11_NumberAsWords\obj\Debug\Pr.11_NumberAsWords.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.11_NumberAsWords\obj\Debug\Pr.11_NumberAsWords.pdb
+D:\05_ConditionalStatementsHomework\Pr.11_NumberAsWords\bin\Debug\Pr.11_NumberAsWords.exe.config
+D:\05_ConditionalStatementsHomework\Pr.11_NumberAsWords\obj\Debug\Pr.11_NumberAsWords.exe
+D:\05_ConditionalStatementsHomework\Pr.11_NumberAsWords\obj\Debug\Pr.11_NumberAsWords.pdb
+D:\05_ConditionalStatementsHomework\Pr.11_NumberAsWords\bin\Debug\Pr.11_NumberAsWords.exe
+D:\05_ConditionalStatementsHomework\Pr.11_NumberAsWords\bin\Debug\Pr.11_NumberAsWords.pdb
+D:\05_ConditionalStatementsHomework\Pr.11_NumberAsWords\obj\Debug\Pr.11_NumberAsWords.csprojResolveAssemblyReference.cache

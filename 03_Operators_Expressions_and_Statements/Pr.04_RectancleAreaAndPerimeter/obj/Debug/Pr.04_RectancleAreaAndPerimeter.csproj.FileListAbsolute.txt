@@ -1,0 +1,15 @@
+D:\programing\OperatorExpressionsAndStatements\Pr.04_RectancleAreaAndPerimeter\bin\Debug\Pr.04_RectancleAreaAndPerimeter.exe.config
+D:\programing\OperatorExpressionsAndStatements\Pr.04_RectancleAreaAndPerimeter\bin\Debug\Pr.04_RectancleAreaAndPerimeter.exe
+D:\programing\OperatorExpressionsAndStatements\Pr.04_RectancleAreaAndPerimeter\bin\Debug\Pr.04_RectancleAreaAndPerimeter.pdb
+D:\programing\OperatorExpressionsAndStatements\Pr.04_RectancleAreaAndPerimeter\obj\Debug\Pr.04_RectancleAreaAndPerimeter.csprojResolveAssemblyReference.cache
+D:\programing\OperatorExpressionsAndStatements\Pr.04_RectancleAreaAndPerimeter\obj\Debug\Pr.04_RectancleAreaAndPerimeter.exe
+D:\programing\OperatorExpressionsAndStatements\Pr.04_RectancleAreaAndPerimeter\obj\Debug\Pr.04_RectancleAreaAndPerimeter.pdb
+D:\pgm\Project_03\Project_03\Pr.04_RectancleAreaAndPerimeter\bin\Debug\Pr.04_RectancleAreaAndPerimeter.exe.config
+D:\pgm\Project_03\Project_03\Pr.04_RectancleAreaAndPerimeter\obj\Debug\Pr.04_RectancleAreaAndPerimeter.exe
+D:\pgm\Project_03\Project_03\Pr.04_RectancleAreaAndPerimeter\obj\Debug\Pr.04_RectancleAreaAndPerimeter.pdb
+D:\pgm\Project_03\Project_03\Pr.04_RectancleAreaAndPerimeter\bin\Debug\Pr.04_RectancleAreaAndPerimeter.exe
+D:\pgm\Project_03\Project_03\Pr.04_RectancleAreaAndPerimeter\bin\Debug\Pr.04_RectancleAreaAndPerimeter.pdb
+D:\pgm\Project_03\Project_03\Pr.04_RectancleAreaAndPerimeter\obj\Debug\Pr.04_RectancleAreaAndPerimeter.csprojResolveAssemblyReference.cache
+D:\pgm\Project_03\03_Operators_Expressions_and_Statements\Pr.04_RectancleAreaAndPerimeter\bin\Debug\Pr.04_RectancleAreaAndPerimeter.exe.config
+D:\pgm\Project_03\03_Operators_Expressions_and_Statements\Pr.04_RectancleAreaAndPerimeter\obj\Debug\Pr.04_RectancleAreaAndPerimeter.exe
+D:\pgm\Project_03\03_Operators_Expressions_and_Statements\Pr.04_RectancleAreaAndPerimeter\obj\Debug\Pr.04_RectancleAreaAndPerimeter.pdb

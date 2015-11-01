@@ -1,0 +1,6 @@
+D:\Programming\C# Basics\Projects_Deska\08_Exam\12_Car_22.08.2014\bin\Debug\_12_Car_22._08._2014.exe.config
+D:\Programming\C# Basics\Projects_Deska\08_Exam\12_Car_22.08.2014\bin\Debug\_12_Car_22._08._2014.exe
+D:\Programming\C# Basics\Projects_Deska\08_Exam\12_Car_22.08.2014\bin\Debug\_12_Car_22._08._2014.pdb
+D:\Programming\C# Basics\Projects_Deska\08_Exam\12_Car_22.08.2014\obj\Debug\12_Car_22.08.2014.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\08_Exam\12_Car_22.08.2014\obj\Debug\_12_Car_22._08._2014.exe
+D:\Programming\C# Basics\Projects_Deska\08_Exam\12_Car_22.08.2014\obj\Debug\_12_Car_22._08._2014.pdb

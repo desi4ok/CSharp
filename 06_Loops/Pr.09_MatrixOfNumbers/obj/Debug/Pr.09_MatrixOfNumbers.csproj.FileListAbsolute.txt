@@ -1,0 +1,9 @@
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.09_MatrixOfNumbers\bin\Debug\Pr.09_MatrixOfNumbers.exe.config
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.09_MatrixOfNumbers\bin\Debug\Pr.09_MatrixOfNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.09_MatrixOfNumbers\bin\Debug\Pr.09_MatrixOfNumbers.pdb
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.09_MatrixOfNumbers\obj\Debug\Pr.09_MatrixOfNumbers.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.09_MatrixOfNumbers\obj\Debug\Pr.09_MatrixOfNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.09_MatrixOfNumbers\obj\Debug\Pr.09_MatrixOfNumbers.pdb
+D:\06_Loops\Pr.09_MatrixOfNumbers\bin\Debug\Pr.09_MatrixOfNumbers.exe.config
+D:\06_Loops\Pr.09_MatrixOfNumbers\obj\Debug\Pr.09_MatrixOfNumbers.exe
+D:\06_Loops\Pr.09_MatrixOfNumbers\obj\Debug\Pr.09_MatrixOfNumbers.pdb

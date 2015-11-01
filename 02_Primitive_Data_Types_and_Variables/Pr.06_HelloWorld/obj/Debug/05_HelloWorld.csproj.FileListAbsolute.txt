@@ -1,0 +1,12 @@
+D:\programing\projekt_02\05_HelloWorld\bin\Debug\05_HelloWorld.exe.config
+D:\programing\projekt_02\05_HelloWorld\obj\Debug\05_HelloWorld.csprojResolveAssemblyReference.cache
+D:\programing\projekt_02\05_HelloWorld\bin\Debug\05_HelloWorld.exe
+D:\programing\projekt_02\05_HelloWorld\bin\Debug\05_HelloWorld.pdb
+D:\programing\projekt_02\05_HelloWorld\obj\Debug\05_HelloWorld.exe
+D:\programing\projekt_02\05_HelloWorld\obj\Debug\05_HelloWorld.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\05_HelloWorld\bin\Debug\05_HelloWorld.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\05_HelloWorld\obj\Debug\05_HelloWorld.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\05_HelloWorld\obj\Debug\05_HelloWorld.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\05_HelloWorld\obj\Debug\05_HelloWorld.csprojResolveAssemblyReference.cache
+D:\programing\02_Primitive_Data_Types_and_Variables\05_HelloWorld\bin\Debug\05_HelloWorld.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\05_HelloWorld\bin\Debug\05_HelloWorld.pdb

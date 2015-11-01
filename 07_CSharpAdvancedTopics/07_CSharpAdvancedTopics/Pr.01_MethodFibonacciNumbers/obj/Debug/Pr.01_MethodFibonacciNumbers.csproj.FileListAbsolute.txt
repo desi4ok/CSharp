@@ -1,0 +1,12 @@
+D:\pgm\07_CSharpAdvancedTopics\Pr.01_MethodFibonacciNumbers\bin\Debug\Pr.01_MethodFibonacciNumbers.exe.config
+D:\pgm\07_CSharpAdvancedTopics\Pr.01_MethodFibonacciNumbers\bin\Debug\Pr.01_MethodFibonacciNumbers.exe
+D:\pgm\07_CSharpAdvancedTopics\Pr.01_MethodFibonacciNumbers\bin\Debug\Pr.01_MethodFibonacciNumbers.pdb
+D:\pgm\07_CSharpAdvancedTopics\Pr.01_MethodFibonacciNumbers\obj\Debug\Pr.01_MethodFibonacciNumbers.csprojResolveAssemblyReference.cache
+D:\pgm\07_CSharpAdvancedTopics\Pr.01_MethodFibonacciNumbers\obj\Debug\Pr.01_MethodFibonacciNumbers.exe
+D:\pgm\07_CSharpAdvancedTopics\Pr.01_MethodFibonacciNumbers\obj\Debug\Pr.01_MethodFibonacciNumbers.pdb
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.01_MethodFibonacciNumbers\bin\Debug\Pr.01_MethodFibonacciNumbers.exe.config
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.01_MethodFibonacciNumbers\obj\Debug\Pr.01_MethodFibonacciNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.01_MethodFibonacciNumbers\obj\Debug\Pr.01_MethodFibonacciNumbers.pdb
+D:\pgm\pgm\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.01_MethodFibonacciNumbers\bin\Debug\Pr.01_MethodFibonacciNumbers.exe.config
+D:\pgm\pgm\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.01_MethodFibonacciNumbers\obj\Debug\Pr.01_MethodFibonacciNumbers.exe
+D:\pgm\pgm\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.01_MethodFibonacciNumbers\obj\Debug\Pr.01_MethodFibonacciNumbers.pdb

@@ -1,0 +1,9 @@
+D:\programing\02_Primitive_Data_Types_and_Variables\02_HexadecimalFormat\bin\Debug\02_HexadecimalFormat.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\02_HexadecimalFormat\obj\Debug\02_HexadecimalFormat.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\02_HexadecimalFormat\obj\Debug\02_HexadecimalFormat.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.03_HexadecimalFormat\bin\Debug\02_HexadecimalFormat.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.03_HexadecimalFormat\obj\Debug\02_HexadecimalFormat.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.03_HexadecimalFormat\obj\Debug\02_HexadecimalFormat.pdb
+D:\Programming\C# Basics\Projects_Deska\02_Primitive_Data_Types_and_Variables\Pr.03_HexadecimalFormat\bin\Debug\02_HexadecimalFormat.exe.config
+D:\Programming\C# Basics\Projects_Deska\02_Primitive_Data_Types_and_Variables\Pr.03_HexadecimalFormat\obj\Debug\02_HexadecimalFormat.exe
+D:\Programming\C# Basics\Projects_Deska\02_Primitive_Data_Types_and_Variables\Pr.03_HexadecimalFormat\obj\Debug\02_HexadecimalFormat.pdb

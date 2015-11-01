@@ -1,0 +1,11 @@
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.09_SumOFnNumbers\bin\Debug\Pr.09_SumOFnNumbers.exe.config
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.09_SumOFnNumbers\bin\Debug\Pr.09_SumOFnNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.09_SumOFnNumbers\bin\Debug\Pr.09_SumOFnNumbers.pdb
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.09_SumOFnNumbers\obj\Debug\Pr.09_SumOFnNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.09_SumOFnNumbers\obj\Debug\Pr.09_SumOFnNumbers.pdb
+D:\programing\04_Console_Input_Output\Pr.09_SumOFnNumbers\bin\Debug\Pr.09_SumOFnNumbers.exe.config
+D:\programing\04_Console_Input_Output\Pr.09_SumOFnNumbers\obj\Debug\Pr.09_SumOFnNumbers.exe
+D:\programing\04_Console_Input_Output\Pr.09_SumOFnNumbers\obj\Debug\Pr.09_SumOFnNumbers.pdb
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.09_SumOFnNumbers\bin\Debug\Pr.09_SumOFnNumbers.exe.config
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.09_SumOFnNumbers\obj\Debug\Pr.09_SumOFnNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.09_SumOFnNumbers\obj\Debug\Pr.09_SumOFnNumbers.pdb

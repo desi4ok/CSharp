@@ -1,0 +1,12 @@
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.04_PrintingDeckOfCards\bin\Debug\Pr.04_PrintingDeckOfCards.exe.config
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.04_PrintingDeckOfCards\bin\Debug\Pr.04_PrintingDeckOfCards.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.04_PrintingDeckOfCards\bin\Debug\Pr.04_PrintingDeckOfCards.pdb
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.04_PrintingDeckOfCards\obj\Debug\Pr.04_PrintingDeckOfCards.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.04_PrintingDeckOfCards\obj\Debug\Pr.04_PrintingDeckOfCards.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.04_PrintingDeckOfCards\obj\Debug\Pr.04_PrintingDeckOfCards.pdb
+D:\06_Loops\Pr.04_PrintingDeckOfCards\bin\Debug\Pr.04_PrintingDeckOfCards.exe.config
+D:\06_Loops\Pr.04_PrintingDeckOfCards\obj\Debug\Pr.04_PrintingDeckOfCards.exe
+D:\06_Loops\Pr.04_PrintingDeckOfCards\obj\Debug\Pr.04_PrintingDeckOfCards.pdb
+D:\06_Loops\Pr.04_PrintingDeckOfCards\bin\Debug\Pr.04_PrintingDeckOfCards.exe
+D:\06_Loops\Pr.04_PrintingDeckOfCards\bin\Debug\Pr.04_PrintingDeckOfCards.pdb
+D:\06_Loops\Pr.04_PrintingDeckOfCards\obj\Debug\Pr.04_PrintingDeckOfCards.csprojResolveAssemblyReference.cache

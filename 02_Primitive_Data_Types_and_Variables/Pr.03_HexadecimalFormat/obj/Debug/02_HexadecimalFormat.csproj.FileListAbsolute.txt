@@ -1,0 +1,12 @@
+D:\programing\projekt_02\02_HexadecimalFormat\bin\Debug\02_HexadecimalFormat.exe.config
+D:\programing\projekt_02\02_HexadecimalFormat\bin\Debug\02_HexadecimalFormat.exe
+D:\programing\projekt_02\02_HexadecimalFormat\bin\Debug\02_HexadecimalFormat.pdb
+D:\programing\projekt_02\02_HexadecimalFormat\obj\Debug\02_HexadecimalFormat.csprojResolveAssemblyReference.cache
+D:\programing\projekt_02\02_HexadecimalFormat\obj\Debug\02_HexadecimalFormat.exe
+D:\programing\projekt_02\02_HexadecimalFormat\obj\Debug\02_HexadecimalFormat.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\02_HexadecimalFormat\bin\Debug\02_HexadecimalFormat.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\02_HexadecimalFormat\obj\Debug\02_HexadecimalFormat.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\02_HexadecimalFormat\obj\Debug\02_HexadecimalFormat.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\02_HexadecimalFormat\bin\Debug\02_HexadecimalFormat.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\02_HexadecimalFormat\bin\Debug\02_HexadecimalFormat.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\02_HexadecimalFormat\obj\Debug\02_HexadecimalFormat.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+D:\pgm\Project_03\Project_03\Pr.07_PointInACircle\bin\Debug\Pr.7_PointInACircle.exe.config
+D:\pgm\Project_03\Project_03\Pr.07_PointInACircle\obj\Debug\Pr.7_PointInACircle.exe
+D:\pgm\Project_03\Project_03\Pr.07_PointInACircle\obj\Debug\Pr.7_PointInACircle.pdb

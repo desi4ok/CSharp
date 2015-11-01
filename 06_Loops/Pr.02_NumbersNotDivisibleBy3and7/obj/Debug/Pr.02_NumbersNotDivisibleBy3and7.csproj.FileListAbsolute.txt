@@ -1,0 +1,8 @@
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.02_NumbersNotDivisibleBy3and7\bin\Debug\Pr.02_NumbersNotDivisibleBy3and7.exe.config
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.02_NumbersNotDivisibleBy3and7\bin\Debug\Pr.02_NumbersNotDivisibleBy3and7.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.02_NumbersNotDivisibleBy3and7\bin\Debug\Pr.02_NumbersNotDivisibleBy3and7.pdb
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.02_NumbersNotDivisibleBy3and7\obj\Debug\Pr.02_NumbersNotDivisibleBy3and7.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.02_NumbersNotDivisibleBy3and7\obj\Debug\Pr.02_NumbersNotDivisibleBy3and7.pdb
+D:\06_Loops\Pr.02_NumbersNotDivisibleBy3and7\bin\Debug\Pr.02_NumbersNotDivisibleBy3and7.exe.config
+D:\06_Loops\Pr.02_NumbersNotDivisibleBy3and7\obj\Debug\Pr.02_NumbersNotDivisibleBy3and7.exe
+D:\06_Loops\Pr.02_NumbersNotDivisibleBy3and7\obj\Debug\Pr.02_NumbersNotDivisibleBy3and7.pdb

@@ -1,0 +1,15 @@
+D:\Programming\C# Basics\Projects_Deska\Project_03\Pr.8_PrimeNumberCheck\bin\Debug\Pr.8_PrimeNumberCheck.exe.config
+D:\Programming\C# Basics\Projects_Deska\Project_03\Pr.8_PrimeNumberCheck\bin\Debug\Pr.8_PrimeNumberCheck.exe
+D:\Programming\C# Basics\Projects_Deska\Project_03\Pr.8_PrimeNumberCheck\bin\Debug\Pr.8_PrimeNumberCheck.pdb
+D:\Programming\C# Basics\Projects_Deska\Project_03\Pr.8_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\Project_03\Pr.8_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.exe
+D:\Programming\C# Basics\Projects_Deska\Project_03\Pr.8_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.pdb
+D:\pgm\Project_03\Project_03\Pr.8_PrimeNumberCheck\bin\Debug\Pr.8_PrimeNumberCheck.exe.config
+D:\pgm\Project_03\Project_03\Pr.8_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.exe
+D:\pgm\Project_03\Project_03\Pr.8_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.pdb
+D:\pgm\Project_03\Project_03\Pr.8_PrimeNumberCheck\bin\Debug\Pr.8_PrimeNumberCheck.exe
+D:\pgm\Project_03\Project_03\Pr.8_PrimeNumberCheck\bin\Debug\Pr.8_PrimeNumberCheck.pdb
+D:\pgm\Project_03\Project_03\Pr.8_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.csprojResolveAssemblyReference.cache
+D:\pgm\Project_03\Project_03\Pr.08_PrimeNumberCheck\bin\Debug\Pr.8_PrimeNumberCheck.exe.config
+D:\pgm\Project_03\Project_03\Pr.08_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.exe
+D:\pgm\Project_03\Project_03\Pr.08_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.pdb

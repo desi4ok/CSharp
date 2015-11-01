@@ -1,0 +1,9 @@
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.07_Sort3NumbersWithNestedIfs\bin\Debug\Pr.07_Sort3NumbersWithNestedIfs.exe.config
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.07_Sort3NumbersWithNestedIfs\bin\Debug\Pr.07_Sort3NumbersWithNestedIfs.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.07_Sort3NumbersWithNestedIfs\bin\Debug\Pr.07_Sort3NumbersWithNestedIfs.pdb
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.07_Sort3NumbersWithNestedIfs\obj\Debug\Pr.07_Sort3NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.07_Sort3NumbersWithNestedIfs\obj\Debug\Pr.07_Sort3NumbersWithNestedIfs.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.07_Sort3NumbersWithNestedIfs\obj\Debug\Pr.07_Sort3NumbersWithNestedIfs.pdb
+D:\05_ConditionalStatementsHomework\Pr.07_Sort3NumbersWithNestedIfs\bin\Debug\Pr.07_Sort3NumbersWithNestedIfs.exe.config
+D:\05_ConditionalStatementsHomework\Pr.07_Sort3NumbersWithNestedIfs\obj\Debug\Pr.07_Sort3NumbersWithNestedIfs.exe
+D:\05_ConditionalStatementsHomework\Pr.07_Sort3NumbersWithNestedIfs\obj\Debug\Pr.07_Sort3NumbersWithNestedIfs.pdb

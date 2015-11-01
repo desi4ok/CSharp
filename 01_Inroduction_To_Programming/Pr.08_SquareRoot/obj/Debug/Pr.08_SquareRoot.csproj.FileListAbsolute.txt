@@ -1,0 +1,6 @@
+D:\programing\project_01\01_Start\Pr.08_SquareRoot\bin\Debug\Pr.8_SquareRoot.exe.config
+D:\programing\project_01\01_Start\Pr.08_SquareRoot\obj\Debug\Pr.8_SquareRoot.exe
+D:\programing\project_01\01_Start\Pr.08_SquareRoot\obj\Debug\Pr.8_SquareRoot.pdb
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.08_SquareRoot\bin\Debug\Pr.8_SquareRoot.exe.config
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.08_SquareRoot\obj\Debug\Pr.8_SquareRoot.exe
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.08_SquareRoot\obj\Debug\Pr.8_SquareRoot.pdb

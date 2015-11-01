@@ -1,0 +1,8 @@
+D:\programing\02_Primitive_Data_Types_and_Variables\10_VariablesExchange\bin\Debug\10_VariablesExchange.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\10_VariablesExchange\bin\Debug\10_VariablesExchange.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\10_VariablesExchange\bin\Debug\10_VariablesExchange.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\10_VariablesExchange\obj\Debug\10_VariablesExchange.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\10_VariablesExchange\obj\Debug\10_VariablesExchange.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.09_ExchangeVariableValues\bin\Debug\10_VariablesExchange.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.09_ExchangeVariableValues\obj\Debug\10_VariablesExchange.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.09_ExchangeVariableValues\obj\Debug\10_VariablesExchange.pdb

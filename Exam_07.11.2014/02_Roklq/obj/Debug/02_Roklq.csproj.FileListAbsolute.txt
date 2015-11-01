@@ -1,0 +1,5 @@
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\02_Roklq\bin\Debug\02_Roklq.exe.config
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\02_Roklq\bin\Debug\02_Roklq.exe
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\02_Roklq\bin\Debug\02_Roklq.pdb
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\02_Roklq\obj\Debug\02_Roklq.exe
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\02_Roklq\obj\Debug\02_Roklq.pdb

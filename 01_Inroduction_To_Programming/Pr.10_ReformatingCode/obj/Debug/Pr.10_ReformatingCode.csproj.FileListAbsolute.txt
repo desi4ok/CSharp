@@ -1,0 +1,15 @@
+D:\programing\project_01\01_Start\Pr.10_ReformatingCode\bin\Debug\Pr.10_ReformatingCode.exe.config
+D:\programing\project_01\01_Start\Pr.10_ReformatingCode\bin\Debug\Pr.10_ReformatingCode.exe
+D:\programing\project_01\01_Start\Pr.10_ReformatingCode\bin\Debug\Pr.10_ReformatingCode.pdb
+D:\programing\project_01\01_Start\Pr.10_ReformatingCode\obj\Debug\Pr.10_ReformatingCode.csprojResolveAssemblyReference.cache
+D:\programing\project_01\01_Start\Pr.10_ReformatingCode\obj\Debug\Pr.10_ReformatingCode.exe
+D:\programing\project_01\01_Start\Pr.10_ReformatingCode\obj\Debug\Pr.10_ReformatingCode.pdb
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.10_ReformatingCode\bin\Debug\Pr.10_ReformatingCode.exe.config
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.10_ReformatingCode\obj\Debug\Pr.10_ReformatingCode.exe
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.10_ReformatingCode\obj\Debug\Pr.10_ReformatingCode.pdb
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.10_ReformatingCode\bin\Debug\Pr.10_ReformatingCode.exe
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.10_ReformatingCode\bin\Debug\Pr.10_ReformatingCode.pdb
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.10_ReformatingCode\obj\Debug\Pr.10_ReformatingCode.csprojResolveAssemblyReference.cache
+D:\programing\01_Inroduction_To_Programming\Pr.10_ReformatingCode\bin\Debug\Pr.10_ReformatingCode.exe.config
+D:\programing\01_Inroduction_To_Programming\Pr.10_ReformatingCode\obj\Debug\Pr.10_ReformatingCode.exe
+D:\programing\01_Inroduction_To_Programming\Pr.10_ReformatingCode\obj\Debug\Pr.10_ReformatingCode.pdb

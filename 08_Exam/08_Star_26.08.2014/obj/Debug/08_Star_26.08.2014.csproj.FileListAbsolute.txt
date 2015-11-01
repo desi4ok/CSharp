@@ -1,0 +1,6 @@
+D:\pgm\08_Exam\08_Exam\08_Star_26.08.2014\bin\Debug\08_Star_26.08.2014.exe.config
+D:\pgm\08_Exam\08_Exam\08_Star_26.08.2014\bin\Debug\08_Star_26.08.2014.exe
+D:\pgm\08_Exam\08_Exam\08_Star_26.08.2014\bin\Debug\08_Star_26.08.2014.pdb
+D:\pgm\08_Exam\08_Exam\08_Star_26.08.2014\obj\Debug\08_Star_26.08.2014.csprojResolveAssemblyReference.cache
+D:\pgm\08_Exam\08_Exam\08_Star_26.08.2014\obj\Debug\08_Star_26.08.2014.exe
+D:\pgm\08_Exam\08_Exam\08_Star_26.08.2014\obj\Debug\08_Star_26.08.2014.pdb

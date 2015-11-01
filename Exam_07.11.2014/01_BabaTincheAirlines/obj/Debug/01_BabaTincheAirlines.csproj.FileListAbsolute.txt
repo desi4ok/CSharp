@@ -1,0 +1,6 @@
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\01_BabaTincheAirlines\bin\Debug\01_BabaTincheAirlines.exe.config
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\01_BabaTincheAirlines\obj\Debug\01_BabaTincheAirlines.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\01_BabaTincheAirlines\bin\Debug\01_BabaTincheAirlines.exe
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\01_BabaTincheAirlines\bin\Debug\01_BabaTincheAirlines.pdb
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\01_BabaTincheAirlines\obj\Debug\01_BabaTincheAirlines.exe
+D:\Programming\C# Basics\Projects_Deska\Exam_07.11.2014\01_BabaTincheAirlines\obj\Debug\01_BabaTincheAirlines.pdb

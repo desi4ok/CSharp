@@ -1,0 +1,6 @@
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.13_BinaryToDecimalNumber\bin\Debug\Pr.13_BinaryToDecimalNumber.exe.config
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.13_BinaryToDecimalNumber\bin\Debug\Pr.13_BinaryToDecimalNumber.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.13_BinaryToDecimalNumber\bin\Debug\Pr.13_BinaryToDecimalNumber.pdb
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.13_BinaryToDecimalNumber\obj\Debug\Pr.13_BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.13_BinaryToDecimalNumber\obj\Debug\Pr.13_BinaryToDecimalNumber.exe
+D:\Programming\C# Basics\Projects_Deska\06_Loops\Pr.13_BinaryToDecimalNumber\obj\Debug\Pr.13_BinaryToDecimalNumber.pdb

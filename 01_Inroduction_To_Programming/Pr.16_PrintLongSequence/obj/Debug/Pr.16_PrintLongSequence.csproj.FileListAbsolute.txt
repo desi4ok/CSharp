@@ -1,0 +1,9 @@
+D:\programing\project_01\01_Start\Pr.16_PrintLongSequence\bin\Debug\Pr.16_PrintLongSequence.exe.config
+D:\programing\project_01\01_Start\Pr.16_PrintLongSequence\bin\Debug\Pr.16_PrintLongSequence.exe
+D:\programing\project_01\01_Start\Pr.16_PrintLongSequence\bin\Debug\Pr.16_PrintLongSequence.pdb
+D:\programing\project_01\01_Start\Pr.16_PrintLongSequence\obj\Debug\Pr.16_PrintLongSequence.exe
+D:\programing\project_01\01_Start\Pr.16_PrintLongSequence\obj\Debug\Pr.16_PrintLongSequence.pdb
+D:\programing\project_01\01_Start\Pr.16_PrintLongSequence\obj\Debug\Pr.16_PrintLongSequence.csprojResolveAssemblyReference.cache
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.16_PrintLongSequence\bin\Debug\Pr.16_PrintLongSequence.exe.config
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.16_PrintLongSequence\obj\Debug\Pr.16_PrintLongSequence.exe
+D:\programing\project_01\01_Inroduction_To_Programming\Pr.16_PrintLongSequence\obj\Debug\Pr.16_PrintLongSequence.pdb

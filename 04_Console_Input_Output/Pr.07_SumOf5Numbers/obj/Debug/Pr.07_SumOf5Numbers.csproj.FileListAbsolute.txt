@@ -1,0 +1,11 @@
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.07_SumOf5Numbers\bin\Debug\Pr.07_SumOf5Numbers.exe.config
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.07_SumOf5Numbers\bin\Debug\Pr.07_SumOf5Numbers.exe
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.07_SumOf5Numbers\bin\Debug\Pr.07_SumOf5Numbers.pdb
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.07_SumOf5Numbers\obj\Debug\Pr.07_SumOf5Numbers.exe
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.07_SumOf5Numbers\obj\Debug\Pr.07_SumOf5Numbers.pdb
+D:\programing\04_Console_Input_Output\Pr.07_SumOf5Numbers\bin\Debug\Pr.07_SumOf5Numbers.exe.config
+D:\programing\04_Console_Input_Output\Pr.07_SumOf5Numbers\obj\Debug\Pr.07_SumOf5Numbers.exe
+D:\programing\04_Console_Input_Output\Pr.07_SumOf5Numbers\obj\Debug\Pr.07_SumOf5Numbers.pdb
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.07_SumOf5Numbers\bin\Debug\Pr.07_SumOf5Numbers.exe.config
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.07_SumOf5Numbers\obj\Debug\Pr.07_SumOf5Numbers.exe
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.07_SumOf5Numbers\obj\Debug\Pr.07_SumOf5Numbers.pdb

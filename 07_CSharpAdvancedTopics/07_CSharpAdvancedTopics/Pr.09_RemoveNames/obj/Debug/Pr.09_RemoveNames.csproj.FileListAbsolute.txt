@@ -1,0 +1,6 @@
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.09_RemoveNames\bin\Debug\Pr.09_RemoveNames.exe.config
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.09_RemoveNames\bin\Debug\Pr.09_RemoveNames.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.09_RemoveNames\bin\Debug\Pr.09_RemoveNames.pdb
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.09_RemoveNames\obj\Debug\Pr.09_RemoveNames.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.09_RemoveNames\obj\Debug\Pr.09_RemoveNames.pdb
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.09_RemoveNames\obj\Debug\Pr.09_RemoveNames.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.01_ExchangeIfGreater\bin\Debug\Pr.01_ExchangeIfGreater.exe.config
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.01_ExchangeIfGreater\bin\Debug\Pr.01_ExchangeIfGreater.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.01_ExchangeIfGreater\bin\Debug\Pr.01_ExchangeIfGreater.pdb
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.01_ExchangeIfGreater\obj\Debug\Pr.01_ExchangeIfGreater.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.01_ExchangeIfGreater\obj\Debug\Pr.01_ExchangeIfGreater.exe
+D:\Programming\C# Basics\Projects_Deska\05_ConditionalStatementsHomework\Pr.01_ExchangeIfGreater\obj\Debug\Pr.01_ExchangeIfGreater.pdb
+D:\05_ConditionalStatementsHomework\Pr.01_ExchangeIfGreater\bin\Debug\Pr.01_ExchangeIfGreater.exe.config
+D:\05_ConditionalStatementsHomework\Pr.01_ExchangeIfGreater\obj\Debug\Pr.01_ExchangeIfGreater.exe
+D:\05_ConditionalStatementsHomework\Pr.01_ExchangeIfGreater\obj\Debug\Pr.01_ExchangeIfGreater.pdb

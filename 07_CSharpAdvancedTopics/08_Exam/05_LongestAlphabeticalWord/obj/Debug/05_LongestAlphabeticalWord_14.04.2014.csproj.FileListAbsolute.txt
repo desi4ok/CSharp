@@ -1,0 +1,3 @@
+D:\Programming\C# Basics\Projects_Deska\08_Exam\05_LongestAlphabeticalWord\bin\Debug\05_LongestAlphabeticalWord.exe.config
+D:\Programming\C# Basics\Projects_Deska\08_Exam\05_LongestAlphabeticalWord\obj\Debug\05_LongestAlphabeticalWord.exe
+D:\Programming\C# Basics\Projects_Deska\08_Exam\05_LongestAlphabeticalWord\obj\Debug\05_LongestAlphabeticalWord.pdb

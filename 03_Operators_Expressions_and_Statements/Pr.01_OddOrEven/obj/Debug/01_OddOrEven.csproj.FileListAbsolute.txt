@@ -1,0 +1,12 @@
+D:\Programming\C# Basics\Projects_Deska\Project_03\Project_03\bin\Debug\Project_03.exe.config
+D:\Programming\C# Basics\Projects_Deska\Project_03\Project_03\bin\Debug\Project_03.exe
+D:\Programming\C# Basics\Projects_Deska\Project_03\Project_03\bin\Debug\Project_03.pdb
+D:\Programming\C# Basics\Projects_Deska\Project_03\Project_03\obj\Debug\01_OddOrEven.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\Project_03\Project_03\obj\Debug\Project_03.exe
+D:\Programming\C# Basics\Projects_Deska\Project_03\Project_03\obj\Debug\Project_03.pdb
+D:\pgm\Project_03\Project_03\Project_03\bin\Debug\Project_03.exe.config
+D:\pgm\Project_03\Project_03\Project_03\obj\Debug\Project_03.exe
+D:\pgm\Project_03\Project_03\Project_03\obj\Debug\Project_03.pdb
+D:\pgm\Project_03\Project_03\Project_03\bin\Debug\Project_03.exe
+D:\pgm\Project_03\Project_03\Project_03\bin\Debug\Project_03.pdb
+D:\pgm\Project_03\Project_03\Project_03\obj\Debug\01_OddOrEven.csprojResolveAssemblyReference.cache

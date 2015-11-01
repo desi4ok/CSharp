@@ -1,0 +1,8 @@
+D:\programing\02_Primitive_Data_Types_and_Variables\08_Triangle\bin\Debug\08_Triangle.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\08_Triangle\bin\Debug\08_Triangle.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\08_Triangle\bin\Debug\08_Triangle.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\08_Triangle\obj\Debug\08_Triangle.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\08_Triangle\obj\Debug\08_Triangle.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.08_IsoscelesTriangle\bin\Debug\08_Triangle.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.08_IsoscelesTriangle\obj\Debug\08_Triangle.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\Pr.08_IsoscelesTriangle\obj\Debug\08_Triangle.pdb

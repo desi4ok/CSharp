@@ -1,0 +1,14 @@
+D:\Programming\C# Basics\Projects_Deska\projekt_02\10_VariablesExchange\bin\Debug\10_VariablesExchange.exe.config
+D:\Programming\C# Basics\Projects_Deska\projekt_02\10_VariablesExchange\bin\Debug\10_VariablesExchange.exe
+D:\Programming\C# Basics\Projects_Deska\projekt_02\10_VariablesExchange\bin\Debug\10_VariablesExchange.pdb
+D:\Programming\C# Basics\Projects_Deska\projekt_02\10_VariablesExchange\obj\Debug\10_VariablesExchange.exe
+D:\Programming\C# Basics\Projects_Deska\projekt_02\10_VariablesExchange\obj\Debug\10_VariablesExchange.pdb
+D:\New folder\projekt_02\10_VariablesExchange\bin\Debug\10_VariablesExchange.exe.config
+D:\New folder\projekt_02\10_VariablesExchange\obj\Debug\10_VariablesExchange.exe
+D:\New folder\projekt_02\10_VariablesExchange\obj\Debug\10_VariablesExchange.pdb
+D:\programing\projekt_02\10_VariablesExchange\bin\Debug\10_VariablesExchange.exe.config
+D:\programing\projekt_02\10_VariablesExchange\obj\Debug\10_VariablesExchange.exe
+D:\programing\projekt_02\10_VariablesExchange\obj\Debug\10_VariablesExchange.pdb
+D:\programing\02_Primitive_Data_Types_and_Variables\10_VariablesExchange\bin\Debug\10_VariablesExchange.exe.config
+D:\programing\02_Primitive_Data_Types_and_Variables\10_VariablesExchange\obj\Debug\10_VariablesExchange.exe
+D:\programing\02_Primitive_Data_Types_and_Variables\10_VariablesExchange\obj\Debug\10_VariablesExchange.pdb

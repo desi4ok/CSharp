@@ -1,0 +1,12 @@
+D:\programing\OperatorExpressionsAndStatements\Pr.05_ThirdDigitIs7\bin\Debug\Pr.05_ThirdDigitIs7.exe.config
+D:\programing\OperatorExpressionsAndStatements\Pr.05_ThirdDigitIs7\obj\Debug\Pr.05_ThirdDigitIs7.csprojResolveAssemblyReference.cache
+D:\programing\OperatorExpressionsAndStatements\Pr.05_ThirdDigitIs7\bin\Debug\Pr.05_ThirdDigitIs7.exe
+D:\programing\OperatorExpressionsAndStatements\Pr.05_ThirdDigitIs7\bin\Debug\Pr.05_ThirdDigitIs7.pdb
+D:\programing\OperatorExpressionsAndStatements\Pr.05_ThirdDigitIs7\obj\Debug\Pr.05_ThirdDigitIs7.exe
+D:\programing\OperatorExpressionsAndStatements\Pr.05_ThirdDigitIs7\obj\Debug\Pr.05_ThirdDigitIs7.pdb
+D:\pgm\Project_03\Project_03\Pr.05_ThirdDigitIs7\bin\Debug\Pr.05_ThirdDigitIs7.exe.config
+D:\pgm\Project_03\Project_03\Pr.05_ThirdDigitIs7\obj\Debug\Pr.05_ThirdDigitIs7.exe
+D:\pgm\Project_03\Project_03\Pr.05_ThirdDigitIs7\obj\Debug\Pr.05_ThirdDigitIs7.pdb
+D:\pgm\Project_03\Project_03\Pr.05_ThirdDigitIs7\bin\Debug\Pr.05_ThirdDigitIs7.exe
+D:\pgm\Project_03\Project_03\Pr.05_ThirdDigitIs7\bin\Debug\Pr.05_ThirdDigitIs7.pdb
+D:\pgm\Project_03\Project_03\Pr.05_ThirdDigitIs7\obj\Debug\Pr.05_ThirdDigitIs7.csprojResolveAssemblyReference.cache

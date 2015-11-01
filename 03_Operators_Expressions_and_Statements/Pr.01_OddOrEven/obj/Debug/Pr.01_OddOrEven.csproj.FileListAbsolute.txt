@@ -1,0 +1,6 @@
+D:\pgm\Project_03\Project_03\Pr.01_OddOrEven\bin\Debug\Project_03.exe.config
+D:\pgm\Project_03\Project_03\Pr.01_OddOrEven\obj\Debug\Project_03.exe
+D:\pgm\Project_03\Project_03\Pr.01_OddOrEven\obj\Debug\Project_03.pdb
+D:\pgm\Project_03\03_Operators_Expressions_and_Statements\Pr.01_OddOrEven\bin\Debug\Project_03.exe.config
+D:\pgm\Project_03\03_Operators_Expressions_and_Statements\Pr.01_OddOrEven\obj\Debug\Project_03.exe
+D:\pgm\Project_03\03_Operators_Expressions_and_Statements\Pr.01_OddOrEven\obj\Debug\Project_03.pdb

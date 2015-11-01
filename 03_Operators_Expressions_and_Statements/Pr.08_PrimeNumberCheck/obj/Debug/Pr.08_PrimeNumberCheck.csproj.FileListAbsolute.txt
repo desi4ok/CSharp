@@ -1,0 +1,12 @@
+D:\pgm\Project_03\Project_03\Pr.08_PrimeNumberCheck\bin\Debug\Pr.8_PrimeNumberCheck.exe.config
+D:\pgm\Project_03\Project_03\Pr.08_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.exe
+D:\pgm\Project_03\Project_03\Pr.08_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.pdb
+D:\Programming\C# Basics\Projects_Deska\Project_3333\Project_03\Project_03\Pr.08_PrimeNumberCheck\bin\Debug\Pr.8_PrimeNumberCheck.exe.config
+D:\Programming\C# Basics\Projects_Deska\Project_3333\Project_03\Project_03\Pr.08_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.exe
+D:\Programming\C# Basics\Projects_Deska\Project_3333\Project_03\Project_03\Pr.08_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.pdb
+D:\Programming\C# Basics\Projects_Deska\Project_3333\Project_03\Project_03\Pr.08_PrimeNumberCheck\bin\Debug\Pr.8_PrimeNumberCheck.exe
+D:\Programming\C# Basics\Projects_Deska\Project_3333\Project_03\Project_03\Pr.08_PrimeNumberCheck\bin\Debug\Pr.8_PrimeNumberCheck.pdb
+D:\Programming\C# Basics\Projects_Deska\Project_3333\Project_03\Project_03\Pr.08_PrimeNumberCheck\obj\Debug\Pr.08_PrimeNumberCheck.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\03_Operators_Expressions_and_Statements\Pr.08_PrimeNumberCheck\bin\Debug\Pr.8_PrimeNumberCheck.exe.config
+D:\Programming\C# Basics\Projects_Deska\03_Operators_Expressions_and_Statements\Pr.08_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.exe
+D:\Programming\C# Basics\Projects_Deska\03_Operators_Expressions_and_Statements\Pr.08_PrimeNumberCheck\obj\Debug\Pr.8_PrimeNumberCheck.pdb

@@ -1,0 +1,9 @@
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.05_FormattingNumbers\bin\Debug\Pr.05_FormattingNumbers.exe.config
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.05_FormattingNumbers\obj\Debug\Pr.05_FormattingNumbers.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.05_FormattingNumbers\bin\Debug\Pr.05_FormattingNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.05_FormattingNumbers\bin\Debug\Pr.05_FormattingNumbers.pdb
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.05_FormattingNumbers\obj\Debug\Pr.05_FormattingNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\Console_Input_Output\Pr.05_FormattingNumbers\obj\Debug\Pr.05_FormattingNumbers.pdb
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.05_FormattingNumbers\bin\Debug\Pr.05_FormattingNumbers.exe.config
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.05_FormattingNumbers\obj\Debug\Pr.05_FormattingNumbers.exe
+D:\Programming\C# Basics\Projects_Deska\04_Console_Input_Output\Pr.05_FormattingNumbers\obj\Debug\Pr.05_FormattingNumbers.pdb

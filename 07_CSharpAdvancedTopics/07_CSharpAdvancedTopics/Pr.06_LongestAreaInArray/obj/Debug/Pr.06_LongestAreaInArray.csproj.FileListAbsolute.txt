@@ -1,0 +1,12 @@
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.06_LongestAreaInArray\bin\Debug\Pr.06_LongestAreaInArray.exe.config
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.06_LongestAreaInArray\obj\Debug\Pr.06_LongestAreaInArray.csprojResolveAssemblyReference.cache
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.06_LongestAreaInArray\bin\Debug\Pr.06_LongestAreaInArray.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.06_LongestAreaInArray\bin\Debug\Pr.06_LongestAreaInArray.pdb
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.06_LongestAreaInArray\obj\Debug\Pr.06_LongestAreaInArray.exe
+D:\Programming\C# Basics\Projects_Deska\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.06_LongestAreaInArray\obj\Debug\Pr.06_LongestAreaInArray.pdb
+D:\pgm\pgm\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.06_LongestAreaInArray\bin\Debug\Pr.06_LongestAreaInArray.exe.config
+D:\pgm\pgm\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.06_LongestAreaInArray\obj\Debug\Pr.06_LongestAreaInArray.exe
+D:\pgm\pgm\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.06_LongestAreaInArray\obj\Debug\Pr.06_LongestAreaInArray.pdb
+D:\pgm\pgm\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.06_LongestAreaInArray\bin\Debug\Pr.06_LongestAreaInArray.exe
+D:\pgm\pgm\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.06_LongestAreaInArray\bin\Debug\Pr.06_LongestAreaInArray.pdb
+D:\pgm\pgm\07_CSharpAdvancedTopics\07_CSharpAdvancedTopics\Pr.06_LongestAreaInArray\obj\Debug\Pr.06_LongestAreaInArray.csprojResolveAssemblyReference.cache
